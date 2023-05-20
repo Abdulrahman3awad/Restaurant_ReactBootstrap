@@ -1,0 +1,25 @@
+nav{
+    background-color: #fff !important;
+}
+nav a {
+    font-size: 18px;
+    color: #A82D49 !important;
+    font-weight: bold !important;
+}
+nav button{
+    background-color: #A82D49 !important;
+    border: 3px solid #A82D49 !important;
+    border-radius: 0px !important;
+    color: white !important;
+    font-weight: bold !important;
+    padding: 5px 20px !important;
+    margin-left: 20px;
+}
+nav button:hover{
+    background-color: white !important;
+    color: #A82D49 !important;
+}
+nav img{
+    max-height: 90%;
+    max-width: 100%;
+}
